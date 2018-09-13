@@ -1,0 +1,20 @@
+{
+  "name": "myimpl",
+  "version": "1.0.0",
+  "description": "learning auth",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.14",
+    "npm": "^6.4.1",
+    "shortid": "^2.2.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pranav",
+  "license": "ISC"
+}
